@@ -1,0 +1,17 @@
+body{
+    height:  100vh;
+    width: 100vw;
+    overflow: hidden;
+    background: url(/assets/img/jew-cemetery-gc3590854f_640.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h3{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    background-color: gray;
+    padding: 2vh;
+
+}
